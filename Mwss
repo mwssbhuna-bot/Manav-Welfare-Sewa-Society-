@@ -1,0 +1,97 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manav Welfare Sewa Society - Bhuna</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+        }
+        header {
+            background: #2a63ff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 26px;
+            font-weight: bold;
+        }
+        .container {
+            width: 92%;
+            margin: auto;
+            margin-top: 25px;
+        }
+        .section {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 12px;
+            box-shadow: 0px 0px 12px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #2a63ff;
+        }
+        .btn {
+            display: block;
+            text-align: center;
+            margin: 12px 0;
+            background: #2a63ff;
+            color: white;
+            padding: 14px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .btn:hover {
+            background: #1d4ddb;
+        }
+        footer {
+            background: black;
+            color: white;
+            padding: 18px;
+            text-align: center;
+            margin-top: 25px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    Manav Welfare Sewa Society, Bhuna (Fatehabad)
+</header>
+
+<div class="container">
+
+    <div class="section">
+        <h2>📌 Society Details</h2>
+        <p><strong>Location:</strong> Bhuna, Fatehabad (Haryana) – 125111</p>
+        <p><strong>Head Office:</strong> Bhuna</p>
+        <p><strong>Founder / President:</strong> Choudhary Sukhvinder Bains</p>
+        <p><strong>Director:</strong> Choudhary Komal</p>
+        <p><strong>Contact Numbers:</strong><br>
+            📞 9253276818<br>
+            📞 7015466537
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>🔗 Important Links</h2>
+
+        <a class="btn" href="https://wa.me/qr/C7VIV64WJ4IDO1" target="_blank">WhatsApp Contact Link</a>
+
+        <a class="btn" href="tel:9253276818">Call: 9253276818</a>
+
+        <a class="btn" href="tel:7015466537">Call: 7015466537</a>
+    </div>
+
+    <div class="section">
+        <h2>📷 About Society</h2>
+        <p>
+            Manav Welfare Sewa Society का उद्देश्य समाज के जरूरतमंद बच्चों तक शिक्षा, 
+            सहायता और जागरूकता पहुंचाना है।  
+        </p>
+        <p>
+            हमारी टीम रो
